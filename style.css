@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-image: url(./images/images2.webp);
+  background-image: url(./image\ 1.jpg);
   background-position: center;
   background-size: cover;
   display: flex;
@@ -11,22 +11,22 @@ body {
 }
 
 .container {
-  background-color: rgba(255, 255, 255, 0.6);
+  background-color: rgba(255, 255, 255, 0.78);
   color:whitesmoke;
   padding: 30px;
   border-radius: 10px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.11);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.112);
   text-align: center;
   max-width: 400px;
   width: 100%;
   cursor: pointer;
-  
 
 }
 /* .container:hover{
   cursor: pointer;
   background-color: rgba(255, 255, 255, 0.8);
   color: #0a0909; */
+
 
 h1 {
   margin-bottom: 20px;
