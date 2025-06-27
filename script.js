@@ -5,8 +5,12 @@ const quotes = [
   "Great things never come from comfort zones.",
   "Dream it. Wish it. Do it.",
  "Don't watch the clock; do what it does. Keep going.",
- "The harder you work for something, the greater you’ll feel when you achieve it."
-  
+ "The harder you work for something, the greater you’ll feel when you achieve it." ,
+  " Small minds can't comprehend big spirits,to be great you have to be willing to be mocked,hated and misunderstood.but we still have to stay strong",
+   "Setting goals is the first step in turning the invisible into visible", "If you want to be a bigger player;then you will have to take up bigger task",
+   " Where there is faith,there is hope",
+     "When you stop telling freinds about your life,your enemies will stop knowing much about you,speak less and pray more ❤️",
+   "When you are facing a problem,always try to identify the solutions and alternatives ✍️",
  ];
 //const quotes = [
  // "Talk is cheap. Show me the code. — Linus Torvalds",
